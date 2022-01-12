@@ -1,0 +1,28 @@
+.header{
+    padding: 20px 0px;
+    background-color: #c8c10d;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: #E32A62;
+}
+.section-1{
+    padding: 30px 0px;
+}
+.section-2{
+    padding: 30px 0px;
+}
+.section-3{
+    padding: 30px 0px;
+}
+.section-4{
+    padding: 30px 0px;
+    margin-top: 15px;
+    background-color: #cb3362;
+}
+.icon{
+    display: flex;
+    flex: inherit;
+    width: 10%;
+}

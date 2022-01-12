@@ -1,0 +1,68 @@
+.header{
+    padding: 20px 0px;
+    background-color: #c8c10d;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+  }
+  .section-com .row{
+    background-color: white;
+  }
+  h1{
+    color: #CB3362;
+    font-size: 28px;
+  }
+  .section{
+      background-color: #EFEDEE;
+      width: 300px;
+      text-align: center;
+      padding: 15px;
+      margin-left: 50px;
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .section-con .container {
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .section-4{
+    padding: 30px 0px;
+    margin-top: 15px;
+    background-color: #cb3362;
+}
+.icon{
+    display: flex;
+    flex: inherit;
+    width: 10%;
+}

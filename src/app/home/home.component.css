@@ -1,0 +1,37 @@
+.header-section{
+    background-color: #f9f9f9;
+}
+.section-2{
+    background-color: #eae7e8;
+}
+.right-side img{
+    margin-left: 123px;
+}
+.left-side{
+    margin-top: 120px;
+    margin-left: 106px;
+}
+.left-side h1{
+    font-size: 28px;
+    font-weight: 800;
+    color: #E32A62;
+    padding-bottom: 26px;
+}
+.left-side p{
+    font-size: 15px;
+}
+.section-3{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    padding: 55px 0px;
+    background-color: #c8c10d;
+}
+.section-4{
+    background-color: #cb3362;
+}
+.icon{
+    display: flex;
+    flex: inherit;
+    width: 10%;
+}
